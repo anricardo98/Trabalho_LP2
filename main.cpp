@@ -6,8 +6,9 @@
 #include <cstdlib>
 
 int main (int argc, char* argv[]){
-
     dados lancamento;
+
+    lancamento.quantidade = atoi(argv[1]);
 
     lancamento.soma();
 
