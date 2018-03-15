@@ -1,4 +1,4 @@
-#ifndef DADOS_HPP
+#ifndef DADOS_SOMA_HPP
 #define DADOS_SOMA_HPP
 
 class dados{
